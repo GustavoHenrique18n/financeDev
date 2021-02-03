@@ -192,6 +192,7 @@ table tbody tr:hover{
 
     opacity: 0;
     visibility: hidden;
+    z-index:999;
 }
 .modal-overlay.active{
     opacity: 1;
@@ -202,6 +203,7 @@ table tbody tr:hover{
     background:#f0f2f5;
     padding: 2.4rem;
     position: relative;
+    z-index:1;
 
 }
 #form{
