@@ -1,4 +1,7 @@
-# Finance management
- Basically it is an application to organize your wallet 
-# saved with localStorage
-![screens](screens.png)
+ <h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+</h1>
+<p align="center">
+  <img alt="dev.finances" src=".github/screens.png" width="100%">
+</p>
+ 
